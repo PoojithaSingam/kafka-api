@@ -54,7 +54,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.spnotes.kafka.poojitha.Producer</mainClass>
+              <mainClass>com.spnotes.kafka.poojitha.CustomProducer</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>

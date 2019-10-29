@@ -10,7 +10,9 @@ import java.util.Arrays;
 import java.util.Properties;
 import java.util.Scanner;
 
-
+/**
+ * Created by sunilpatil on 12/28/15.
+ */
 public class Consumer {
     private static Scanner in;
 
@@ -74,4 +76,3 @@ public class Consumer {
         }
     }
 }
-
